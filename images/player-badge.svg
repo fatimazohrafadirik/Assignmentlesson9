@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Player one badge</title>
+  <desc id="desc">A neon arcade badge with a star and a circular frame.</desc>
+  <circle cx="120" cy="120" r="106" fill="#1c1c2c" stroke="#d7ff64" stroke-width="8"/>
+  <circle cx="120" cy="120" r="82" fill="none" stroke="#8f78ff" stroke-width="4" stroke-dasharray="8 10"/>
+  <path d="m120 42 18 54 57 1-45 34 16 55-46-32-46 32 16-55-45-34 57-1z" fill="#d7ff64" stroke="#ffea00" stroke-width="5" stroke-linejoin="round"/>
+</svg>

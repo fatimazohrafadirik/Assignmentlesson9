@@ -1,0 +1,3 @@
+/* The existing page styles stay in the project root; this file gives the
+   project the requested styles-folder structure without changing the design. */
+@import url("../style.css");
